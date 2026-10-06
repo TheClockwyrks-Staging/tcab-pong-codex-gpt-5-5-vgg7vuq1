@@ -1,0 +1,11 @@
+[[media]]
+file = "rally.webm"
+name = "A curving obstacle rally"
+
+[[media]]
+file = "rally.png"
+name = "Live play with spin"
+
+[[media]]
+file = "title.png"
+name = "The title screen"
